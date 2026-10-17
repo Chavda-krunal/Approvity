@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538818301694",
+    "firebase_url": "https://creditcard-a438b-default-rtdb.firebaseio.com",
+    "project_id": "creditcard-a438b",
+    "storage_bucket": "creditcard-a438b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538818301694:android:d5a86e683964467eeedfaf",
+        "android_client_info": {
+          "package_name": "com.example.approvity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538818301694-1ei4q2cdvqpa2854k2obeu4d5enqqd3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxNsfuF_PIxJ6vlcJOOTA_YyxKGy2utY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538818301694-1ei4q2cdvqpa2854k2obeu4d5enqqd3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
